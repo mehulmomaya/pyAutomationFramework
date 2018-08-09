@@ -1,0 +1,59 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/omnia/osx-64",
+  "constrains": [],
+  "depends": [
+    "python 3.6*"
+  ],
+  "extracted_package_dir": "/Users/mmomaya/anaconda3/pkgs/parse-1.6.6-py36_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/__pycache__/parse.cpython-36.pyc",
+    "lib/python3.6/site-packages/parse-1.6.6-py3.6.egg-info",
+    "lib/python3.6/site-packages/parse.py"
+  ],
+  "fn": "parse-1.6.6-py36_0.tar.bz2",
+  "license": "BSD License",
+  "link": {
+    "source": "/Users/mmomaya/anaconda3/pkgs/parse-1.6.6-py36_0",
+    "type": 1
+  },
+  "md5": "598116171329d09f8955388519d2b2fe",
+  "name": "parse",
+  "package_tarball_full_path": "/Users/mmomaya/anaconda3/pkgs/parse-1.6.6-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/__pycache__/parse.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d96373d96e4920f1a98533040ce57ba199e23d15db32328a2bdd6a8a6570cd7",
+        "sha256_in_prefix": "6d96373d96e4920f1a98533040ce57ba199e23d15db32328a2bdd6a8a6570cd7",
+        "size_in_bytes": 32443
+      },
+      {
+        "_path": "lib/python3.6/site-packages/parse-1.6.6-py3.6.egg-info",
+        "path_type": "hardlink",
+        "sha256": "96cf9996711c6dbeb17e8c07daab003db1ce0d067a2f3c76de7e163921fc76ac",
+        "sha256_in_prefix": "96cf9996711c6dbeb17e8c07daab003db1ce0d067a2f3c76de7e163921fc76ac",
+        "size_in_bytes": 16066
+      },
+      {
+        "_path": "lib/python3.6/site-packages/parse.py",
+        "path_type": "hardlink",
+        "sha256": "7355d4f25cfd17d2a3fc776423fb89e6a610d6f13454a8a6b5b6fa098ab5092c",
+        "sha256_in_prefix": "7355d4f25cfd17d2a3fc776423fb89e6a610d6f13454a8a6b5b6fa098ab5092c",
+        "size_in_bytes": 39255
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 24706,
+  "subdir": "osx-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/omnia/osx-64/parse-1.6.6-py36_0.tar.bz2",
+  "version": "1.6.6"
+}

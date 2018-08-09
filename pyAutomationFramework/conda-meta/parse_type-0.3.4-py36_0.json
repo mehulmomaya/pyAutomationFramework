@@ -1,0 +1,53 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/omnia/osx-64",
+  "constrains": [],
+  "depends": [
+    "parse >=1.6",
+    "python 3.6*",
+    "six"
+  ],
+  "extracted_package_dir": "/Users/mmomaya/anaconda3/pkgs/parse_type-0.3.4-py36_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/parse_type-0.3.4-py3.6.egg",
+    "lib/python3.6/site-packages/parse_type.pth"
+  ],
+  "fn": "parse_type-0.3.4-py36_0.tar.bz2",
+  "license": "BSD License",
+  "link": {
+    "source": "/Users/mmomaya/anaconda3/pkgs/parse_type-0.3.4-py36_0",
+    "type": 1
+  },
+  "md5": "d21d589167d4c7754aeb8df932f760b0",
+  "name": "parse_type",
+  "package_tarball_full_path": "/Users/mmomaya/anaconda3/pkgs/parse_type-0.3.4-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/parse_type-0.3.4-py3.6.egg",
+        "path_type": "hardlink",
+        "sha256": "b82f53c2a04436db149f48b3e19091a7f932ee6b4ebab6581719d1a53ae6ea2c",
+        "sha256_in_prefix": "b82f53c2a04436db149f48b3e19091a7f932ee6b4ebab6581719d1a53ae6ea2c",
+        "size_in_bytes": 71453
+      },
+      {
+        "_path": "lib/python3.6/site-packages/parse_type.pth",
+        "path_type": "hardlink",
+        "sha256": "d6147fd5da1eec044b58b9b409ff2645e7f0c773a5ad978ed5a8188c326c819c",
+        "sha256_in_prefix": "d6147fd5da1eec044b58b9b409ff2645e7f0c773a5ad978ed5a8188c326c819c",
+        "size_in_bytes": 29
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 72312,
+  "subdir": "osx-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/omnia/osx-64/parse_type-0.3.4-py36_0.tar.bz2",
+  "version": "0.3.4"
+}

@@ -1,0 +1,37 @@
+==> 2018-07-17 11:35:15 <==
+# cmd: /Users/mmomaya/anaconda3/bin/conda create --yes --json --prefix /Users/mmomaya/anaconda3/envs/pyAutomationFramework python=3.6
++defaults::ca-certificates-2018.03.07-0
++defaults::certifi-2018.4.16-py36_0
++defaults::libcxx-4.0.1-h579ed51_0
++defaults::libcxxabi-4.0.1-hebd6815_0
++defaults::libedit-3.1.20170329-hb402a30_2
++defaults::libffi-3.2.1-h475c297_4
++defaults::ncurses-6.1-h0a44026_0
++defaults::openssl-1.0.2o-h26aff7b_0
++defaults::pip-10.0.1-py36_0
++defaults::python-3.6.6-hc167b69_0
++defaults::readline-7.0-hc1231fa_4
++defaults::setuptools-39.2.0-py36_0
++defaults::sqlite-3.24.0-ha441bb4_0
++defaults::tk-8.6.7-h35a86e2_3
++defaults::wheel-0.31.1-py36_0
++defaults::xz-5.2.4-h1de35cc_4
++defaults::zlib-1.2.11-hf3cbc9b_2
+# update specs: ['python=3.6']
+==> 2018-07-17 11:57:08 <==
+# cmd: /Users/mmomaya/anaconda3/bin/conda install --yes --json --force-pscheck --prefix /Users/mmomaya/anaconda3/envs/pyAutomationFramework selenium
++defaults::selenium-3.12.0-py36h1de35cc_0
+# update specs: ['selenium']
+==> 2018-07-17 12:03:40 <==
+# cmd: /Users/mmomaya/anaconda3/bin/conda install --yes --json --force-pscheck --prefix /Users/mmomaya/anaconda3/envs/pyAutomationFramework python-chromedriver-binary
++defaults::chromedriver-binary-2.38-0
++defaults::python-chromedriver-binary-2.38.0-py36_0
+# update specs: ['python-chromedriver-binary']
+==> 2018-07-17 12:19:08 <==
+# cmd: /Users/mmomaya/anaconda3/bin/conda install -c omnia behave
+# conda version: 4.5.8
++defaults::six-1.11.0-py36_1
++omnia::behave-1.2.5-py36_0
++omnia::parse-1.6.6-py36_0
++omnia::parse_type-0.3.4-py36_0
+# update specs: ['behave']

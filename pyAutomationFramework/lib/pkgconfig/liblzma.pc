@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/mmomaya/anaconda3/envs/pyAutomationFramework
+exec_prefix=/Users/mmomaya/anaconda3/envs/pyAutomationFramework
+libdir=/Users/mmomaya/anaconda3/envs/pyAutomationFramework/lib
+includedir=/Users/mmomaya/anaconda3/envs/pyAutomationFramework/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.4
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -D_THREAD_SAFE -pthread 

@@ -1,0 +1,134 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "chromedriver-binary 2.38 0",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/Users/mmomaya/anaconda3/pkgs/python-chromedriver-binary-2.38.0-py36_0",
+  "features": "",
+  "files": [
+    "bin/chromedriver",
+    "bin/chromedriver-path",
+    "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/PKG-INFO",
+    "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/SOURCES.txt",
+    "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/dependency_links.txt",
+    "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/entry_points.txt",
+    "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/top_level.txt",
+    "lib/python3.6/site-packages/chromedriver_binary/__init__.py",
+    "lib/python3.6/site-packages/chromedriver_binary/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/chromedriver_binary/__pycache__/utils.cpython-36.pyc",
+    "lib/python3.6/site-packages/chromedriver_binary/chromedriver",
+    "lib/python3.6/site-packages/chromedriver_binary/utils.py"
+  ],
+  "fn": "python-chromedriver-binary-2.38.0-py36_0.tar.bz2",
+  "license": "3-Clause BSD",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/mmomaya/anaconda3/pkgs/python-chromedriver-binary-2.38.0-py36_0",
+    "type": 1
+  },
+  "md5": "566b1fbd1080fc65e4fe227363d5af1f",
+  "name": "python-chromedriver-binary",
+  "package_tarball_full_path": "/Users/mmomaya/anaconda3/pkgs/python-chromedriver-binary-2.38.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/chromedriver",
+        "path_type": "softlink",
+        "sha256": "13140d4fb5db5fa84d0b2755210ff52ab4f72e21d2231c6d5c27b2623b4f9f36",
+        "size_in_bytes": 11917200
+      },
+      {
+        "_path": "bin/chromedriver-path",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "8c4f998a465402027792675ef2e7736e78798a321bbc58383356453d07ff62a1",
+        "sha256_in_prefix": "95de8da47b6a3f887a961358bde16d071d0b57e7d14198659277d4383bd7ffbf",
+        "size_in_bytes": 468
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "ad3a258af5ee9a34bc3b7e38fe4886737286071ad66c0515a1626bd6b78c76f4",
+        "sha256_in_prefix": "ad3a258af5ee9a34bc3b7e38fe4886737286071ad66c0515a1626bd6b78c76f4",
+        "size_in_bytes": 1966
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "de0d3cd9a4bd25ae658b6ed52c591ad36c475c47973959646f22067098a544ff",
+        "sha256_in_prefix": "de0d3cd9a4bd25ae658b6ed52c591ad36c475c47973959646f22067098a544ff",
+        "size_in_bytes": 330
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "1584c5841b8f5b4bb1929488e7c5529c8b5b67b669f06db63de979132e9463d3",
+        "sha256_in_prefix": "1584c5841b8f5b4bb1929488e7c5529c8b5b67b669f06db63de979132e9463d3",
+        "size_in_bytes": 89
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary-2.38.0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f908c464ffd4ab7c1dbe9bcbe82d6130d2b5ea573c6d3d9278add14bc6d34acf",
+        "sha256_in_prefix": "f908c464ffd4ab7c1dbe9bcbe82d6130d2b5ea573c6d3d9278add14bc6d34acf",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fe4b3faa5fd91f562f2887b8b473e9421f4170903c15b072a42d7aba4fb5c048",
+        "sha256_in_prefix": "fe4b3faa5fd91f562f2887b8b473e9421f4170903c15b072a42d7aba4fb5c048",
+        "size_in_bytes": 721
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "069cad871d64db9109eadbae31d878979e694b924849d35f9518ada0b922965b",
+        "sha256_in_prefix": "069cad871d64db9109eadbae31d878979e694b924849d35f9518ada0b922965b",
+        "size_in_bytes": 831
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary/__pycache__/utils.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "a490c32f2fa658715e54c742b45501df770550602cc0e187ceee5f84b9c897a7",
+        "sha256_in_prefix": "a490c32f2fa658715e54c742b45501df770550602cc0e187ceee5f84b9c897a7",
+        "size_in_bytes": 2585
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary/chromedriver",
+        "path_type": "softlink",
+        "sha256": "13140d4fb5db5fa84d0b2755210ff52ab4f72e21d2231c6d5c27b2623b4f9f36",
+        "size_in_bytes": 11917200
+      },
+      {
+        "_path": "lib/python3.6/site-packages/chromedriver_binary/utils.py",
+        "path_type": "hardlink",
+        "sha256": "7b0fca48f827a3424b3f03802a24551166d1c1cc62b3e0511dc624779eda940d",
+        "sha256_in_prefix": "7b0fca48f827a3424b3f03802a24551166d1c1cc62b3e0511dc624779eda940d",
+        "size_in_bytes": 2356
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "python-chromedriver-binary",
+  "size": 10296,
+  "subdir": "osx-64",
+  "timestamp": 1527559337340,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/python-chromedriver-binary-2.38.0-py36_0.tar.bz2",
+  "version": "2.38.0"
+}

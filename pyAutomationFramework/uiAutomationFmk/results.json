@@ -1,0 +1,6 @@
+Feature: login feature # features/loginTest.feature:1
+
+  @firstTestScenario
+  Scenario Outline: Login to quora and check that logged in successfully -- @1.1                                      # features/loginTest.feature:11
+    Given goto kelloggsfamilyrewards.pdn.retaileriq.com microsite and login with mmomaya@quotient.com and Testing_123 # None
+

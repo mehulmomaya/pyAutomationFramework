@@ -1,0 +1,43 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1"
+  ],
+  "extracted_package_dir": "/Users/mmomaya/anaconda3/pkgs/chromedriver-binary-2.38-0",
+  "features": "",
+  "files": [
+    "bin/chromedriver-binary"
+  ],
+  "fn": "chromedriver-binary-2.38-0.tar.bz2",
+  "link": {
+    "source": "/Users/mmomaya/anaconda3/pkgs/chromedriver-binary-2.38-0",
+    "type": 1
+  },
+  "md5": "cf8bd9d97efc739b41141cf0857c9053",
+  "name": "chromedriver-binary",
+  "package_tarball_full_path": "/Users/mmomaya/anaconda3/pkgs/chromedriver-binary-2.38-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/chromedriver-binary",
+        "path_type": "hardlink",
+        "sha256": "13140d4fb5db5fa84d0b2755210ff52ab4f72e21d2231c6d5c27b2623b4f9f36",
+        "sha256_in_prefix": "13140d4fb5db5fa84d0b2755210ff52ab4f72e21d2231c6d5c27b2623b4f9f36",
+        "size_in_bytes": 11917200
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 5182585,
+  "subdir": "osx-64",
+  "timestamp": 1527559296708,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/chromedriver-binary-2.38-0.tar.bz2",
+  "version": "2.38"
+}

@@ -1,0 +1,64 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/omnia/osx-64",
+  "constrains": [],
+  "depends": [
+    "parse >=1.6.3",
+    "parse_type >=0.3.4",
+    "python 3.6*",
+    "six"
+  ],
+  "extracted_package_dir": "/Users/mmomaya/anaconda3/pkgs/behave-1.2.5-py36_0",
+  "features": "",
+  "files": [
+    "bin/behave",
+    "lib/python3.6/site-packages/behave-1.2.5-py3.6.egg",
+    "lib/python3.6/site-packages/behave.pth"
+  ],
+  "fn": "behave-1.2.5-py36_0.tar.bz2",
+  "license": "BSD License",
+  "link": {
+    "source": "/Users/mmomaya/anaconda3/pkgs/behave-1.2.5-py36_0",
+    "type": 1
+  },
+  "md5": "32ad7ebacf4f56033b8ed8fbb19e1c43",
+  "name": "behave",
+  "package_tarball_full_path": "/Users/mmomaya/anaconda3/pkgs/behave-1.2.5-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/behave",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "78ee0055427d941cfeb3e90c8204a8563042dbda96b186756109d12b96815c4c",
+        "sha256_in_prefix": "499f8760aedfbad3d3eff7067d7e15abdbc3be19399f8b364c1c4c5882f4da0a",
+        "size_in_bytes": 153
+      },
+      {
+        "_path": "lib/python3.6/site-packages/behave-1.2.5-py3.6.egg",
+        "path_type": "hardlink",
+        "sha256": "6f55609163f0b18e8a7456256a0d1c3edb59df19b5dc96d2fe06a121ef825341",
+        "sha256_in_prefix": "6f55609163f0b18e8a7456256a0d1c3edb59df19b5dc96d2fe06a121ef825341",
+        "size_in_bytes": 251067
+      },
+      {
+        "_path": "lib/python3.6/site-packages/behave.pth",
+        "path_type": "hardlink",
+        "sha256": "40a7e110ad9a2542f8eb40fc42b6e8c614956b39d1e61c2b4ef07d7aa0f9edc0",
+        "sha256_in_prefix": "40a7e110ad9a2542f8eb40fc42b6e8c614956b39d1e61c2b4ef07d7aa0f9edc0",
+        "size_in_bytes": 25
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "behave",
+  "size": 247220,
+  "subdir": "osx-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/omnia/osx-64/behave-1.2.5-py36_0.tar.bz2",
+  "version": "1.2.5"
+}
